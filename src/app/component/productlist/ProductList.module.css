@@ -1,0 +1,7 @@
+.contentStyle {
+  background-color: rgb(242, 242, 231);
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 5px;
+  padding-top: 78px;
+}

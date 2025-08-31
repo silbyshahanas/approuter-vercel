@@ -1,0 +1,85 @@
+.pageLayout{
+    padding-top: 80px;
+}
+
+.productDetails {
+  width: 100%;
+  padding-bottom: 18px;
+  border-bottom: 1px solid rgb(218, 216, 216);
+}
+.body {
+  width: 95vw;
+  height: 288px;
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 20px;
+  padding-left: 5px;
+     border-bottom: 1px solid rgb(218, 216, 216); 
+     box-sizing: border-box;
+}
+
+.images {
+  height: 200px;
+  width: 200px;
+  object-fit: contain;
+  padding-left: 45px;
+}
+.detailsCard {
+    width: 80%;
+  margin-left: 43px;
+}
+.title {
+  text-align: center;
+  height: 50px;
+  font-size: 13px;
+  font-weight: bolder;
+  font-family: Arial, sans-serif;
+  margin-top: 8px;
+  text-align: left;
+}
+/* .id {
+  text-align: center;
+  font-size: x-small;
+  color: gray;
+  
+} */
+
+.price {
+  text-align: left;
+  font-size: 25px;
+  height: 30px;
+  padding: 0px;
+  margin: 0px;
+  margin-top: 1px;
+  font-family: Arial, sans-serif;
+}
+.category {
+  text-align: left;
+  height: 10px;
+  margin-top: 9px;
+  font-size: small;
+  font-weight: bolder;
+  font-family: Arial, sans-serif;
+}
+
+.description {
+  color: gray;
+  text-align: left;
+  margin-top: 15px;
+  height: 50px;
+  font-size: small;
+  font-weight: bolder;
+  font-family: Arial, sans-serif;
+}
+/* .ratings {
+  color: rgb(77, 10, 17);
+  text-align: left;
+  height: 10px;
+  margin-top: 9px;
+  font-size: small;
+  font-weight: bolder;
+  font-family: Arial, sans-serif;
+} */
+.addButton{
+    padding-left: 70px;
+}
