@@ -1,0 +1,115 @@
+.home-layout {
+  padding-top: 70px;
+}
+
+.for-nav {
+  background-color: rgb(9, 9, 103);
+  padding: 8px;
+  width: 99vw;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.navbar-toggler {
+  color: white;
+  font-weight: bold;
+}
+
+/* to make the toggler icon bold and white */
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='white' stroke-width='4' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+.carousel-body{
+  padding-top: 20px;
+ }
+/*.for-secondary-nav {
+  font-weight: 500;
+  padding: 8px;
+  width: 99vw;
+  border-bottom: 1px solid rgb(218, 216, 216); /*to bring a line under the secondary navbar*/
+  /* box-shadow: 0px 2px #f5f4f4;
+  margin-left: -12px;
+  margin-right: -12px;
+}  */
+
+.for-main {
+  height: 100vh;
+  width: 100%;
+  margin-top: 3px;
+}
+.for-category {
+  background-color: white;
+  height: 155px;
+  padding-top: 10px;
+  padding-left: 15px;
+}
+.for-customer-review {
+  background-color: white;
+  height: 145px;
+  padding-top: 19px;
+  padding-left: 15px;
+  padding-bottom: 30px;
+  line-height: 17px;
+}
+.for-brand {
+  background-color: white;
+  height: 235px;
+  padding-top: 0px;
+  padding-left: 15px;
+}
+
+.for-price {
+  background-color: white;
+  height: 200px;
+  padding-top: 19px;
+  padding-left: 15px;
+}
+
+.sub-category {
+  padding-left: 30px;
+}
+.rating {
+  margin-left: 5px;
+  color: orange;
+  font-size: 18px;
+}
+.for-up {
+  color: black;
+  font-size: 15px;
+}
+
+.for-bannerimage {
+  height: 270px;
+  width: 490px;
+  margin-left: 0px;
+}
+.carousel-inner img {
+  height: 400px;
+  object-fit: cover;
+}
+.for-carousel1 {
+  margin-top: 3px;
+  /* border: 1px solid rgb(8, 7, 7); */
+}
+.for-carousel2 {
+  /* width: 250px; */
+  margin-top: -3px;
+  padding: 0;
+  /* border: 1px solid white; */
+}
+.for-carousel3 {
+  margin-top: 3px;
+  /* border: 1px solid black; */
+}
+.text-Carousel1 {
+  color: red;
+}
+.text-Carousel2 {
+  color: darkblue;
+}
+.text-Carousel3 {
+  color: yellowgreen;
+}
+.carousel-caption {
+  top: 25%;
+}

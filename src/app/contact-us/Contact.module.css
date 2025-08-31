@@ -1,0 +1,47 @@
+.contactLayout {
+  padding-top: 70px;
+}
+
+.forTitleSection {
+  height: 300px;
+  text-align: left;
+  padding-top: 50px;
+  padding-left: 50px;
+  margin-bottom: 0;
+  background-color: rgb(121, 121, 223);
+}
+.forContactTitle {
+  color: rgb(49, 49, 113);
+  text-align: left;
+  padding-top: 10px;
+  margin-bottom: 0;
+}
+.forContactDetails {
+  color: white;
+  text-align: left;
+  padding-top: 10px;
+}
+.mainBox {
+  display: flex;
+}
+
+.box {
+  border: 1px solid white;
+  border-radius: 10px 10px;
+  width: 150px;
+  height: 100px;
+  padding-left: 10px;
+  margin-right: 88px;
+}
+.forAddressSection {
+  color: white;
+  height: 500px;
+  text-align: justify;
+  margin-top: -8px;
+  background-color: rgb(49, 49, 113);
+  padding-top: 25px;
+}
+.forAddress {
+  padding-left: 50px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}

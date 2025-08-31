@@ -1,0 +1,36 @@
+.for-header {
+  background-color: rgb(5, 5, 65);
+  padding: 10px 10px;
+  height: 70px;
+  width: 99vw;
+  position: fixed;
+  top: 0;
+  z-index: 1000;
+}
+
+.for-logo {
+  width: 80px;
+  height: 47px;
+}
+.form-control {
+  border-radius: 0 !important;
+}
+.btn {
+  border-radius: 0 !important;
+}
+.for-home {
+  font-size: 15px;
+}
+.for-detail-section {
+  font-size: 15px;
+}
+.for-cart {
+  font-size: 16px;
+}
+
+a[aria-current="page"] {
+  color: gray !important ;
+}
+a:hover {
+  text-decoration: underline;
+}

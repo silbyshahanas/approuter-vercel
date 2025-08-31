@@ -1,0 +1,23 @@
+
+.aboutLayout{
+    padding-top: 70px;
+}
+.title{
+    color: darkblue;
+    height: 200px;
+    text-align: left;
+    padding-top: 50px;
+    padding-left: 20px;
+    margin-bottom: 0;
+    background-color: rgb(121, 121, 223);
+}
+.about{
+    color: white;
+    height: 700px;
+    text-align: justify;
+    margin: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(49, 49, 113);
+    /* border: 1px solid red; */
+}
